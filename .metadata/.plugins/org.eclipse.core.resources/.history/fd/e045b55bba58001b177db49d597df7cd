@@ -1,0 +1,11 @@
+
+public class Task implements Runnable {
+
+	public static counter = 1;
+	
+	@Override
+	public void run() {
+			System.out.println("TASK"+);
+	}
+
+}

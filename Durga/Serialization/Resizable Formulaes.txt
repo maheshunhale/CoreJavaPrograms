@@ -1,0 +1,4 @@
+ArrayList 
+Resizing Formulae:
+
+New Capacity = ((Current Capacity*3)/2)+1
